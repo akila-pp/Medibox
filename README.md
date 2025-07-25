@@ -3,7 +3,7 @@ MediBox is a smart, IoT-enabled medicine dispensing system designed to help pati
 
 
 
-## 🛠 Features
+##  Features
 
 -  **Alarm Management**: Set up to 2 daily alarms for medicine reminders.
 -  **Buzzer & LED Alerts**: Alerts users when it’s time to take medication.
@@ -40,6 +40,7 @@ MediBox is a smart, IoT-enabled medicine dispensing system designed to help pati
 - Buzzer
 - Push Buttons (UP, DOWN, OK, CANCEL)
   
+## Wiring
 
 ---
 
@@ -67,6 +68,6 @@ MediBox is a smart, IoT-enabled medicine dispensing system designed to help pati
 - Realtime data plotting (temperature, humidity, light)
 - Visual display of current alarms
 - Control panel to update configuration remotely via MQTT
-
+<img width="1773" height="876" alt="Image" src="https://github.com/user-attachments/assets/67b1a37d-ee1c-453f-9867-b063790145ea" />
 ---
 
