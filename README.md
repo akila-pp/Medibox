@@ -40,7 +40,8 @@ MediBox is a smart, IoT-enabled medicine dispensing system designed to help pati
 - Buzzer
 - Push Buttons (UP, DOWN, OK, CANCEL)
   
-## Wiring
+## Wiring Diagram
+<img width="888" height="671" alt="Image" src="https://github.com/user-attachments/assets/36d5d375-b1e2-4e21-9405-e191903e9c7a" />
 
 ---
 
