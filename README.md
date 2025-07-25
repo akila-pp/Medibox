@@ -58,6 +58,9 @@ MediBox is a smart, IoT-enabled medicine dispensing system designed to help pati
 | `medibox/config/220134K1_T_med`   | Target temperature for environment logic |
 
 ---
+## Node-RED Flow Graph
+<img width="1919" height="903" alt="Image" src="https://github.com/user-attachments/assets/24f052b1-d5dd-4540-8223-b01670aeb430" />
+ 
 
 ##  Node-RED Dashboard
 
