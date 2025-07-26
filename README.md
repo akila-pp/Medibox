@@ -8,7 +8,7 @@ MediBox is a smart, IoT-enabled medicine dispensing system designed to help pati
 -  **Alarm Management**: Set up to 2 daily alarms for medicine reminders.
 -  **Buzzer & LED Alerts**: Alerts users when it’s time to take medication.
 -  **Servo Motor Actuator**: Automatically opens the medibox compartment at alarm time.
-- 🌡 **Temperature & Humidity Monitoring**: Ensures optimal storage conditions for medicines.
+-  **Temperature & Humidity Monitoring**: Ensures optimal storage conditions for medicines.
 -  **IoT Integration via MQTT**:
   - Publishes temperature, humidity, and light intensity data.
   - Sends alarm schedules.
